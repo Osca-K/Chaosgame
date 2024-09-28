@@ -1,0 +1,15 @@
+C:\Users\1863498\Downloads\Chaosgame\bin\Debug\net6.0-windows\Chaosgame.exe
+C:\Users\1863498\Downloads\Chaosgame\bin\Debug\net6.0-windows\Chaosgame.deps.json
+C:\Users\1863498\Downloads\Chaosgame\bin\Debug\net6.0-windows\Chaosgame.runtimeconfig.json
+C:\Users\1863498\Downloads\Chaosgame\bin\Debug\net6.0-windows\Chaosgame.dll
+C:\Users\1863498\Downloads\Chaosgame\bin\Debug\net6.0-windows\Chaosgame.pdb
+C:\Users\1863498\Downloads\Chaosgame\obj\Debug\net6.0-windows\Chaosgame.csproj.AssemblyReference.cache
+C:\Users\1863498\Downloads\Chaosgame\obj\Debug\net6.0-windows\Chaosgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1863498\Downloads\Chaosgame\obj\Debug\net6.0-windows\Chaosgame.AssemblyInfoInputs.cache
+C:\Users\1863498\Downloads\Chaosgame\obj\Debug\net6.0-windows\Chaosgame.AssemblyInfo.cs
+C:\Users\1863498\Downloads\Chaosgame\obj\Debug\net6.0-windows\Chaosgame.csproj.CoreCompileInputs.cache
+C:\Users\1863498\Downloads\Chaosgame\obj\Debug\net6.0-windows\Chaosgame.dll
+C:\Users\1863498\Downloads\Chaosgame\obj\Debug\net6.0-windows\refint\Chaosgame.dll
+C:\Users\1863498\Downloads\Chaosgame\obj\Debug\net6.0-windows\Chaosgame.pdb
+C:\Users\1863498\Downloads\Chaosgame\obj\Debug\net6.0-windows\Chaosgame.genruntimeconfig.cache
+C:\Users\1863498\Downloads\Chaosgame\obj\Debug\net6.0-windows\ref\Chaosgame.dll

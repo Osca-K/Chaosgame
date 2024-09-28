@@ -1,0 +1,2 @@
+# The-Chaos-Game
+ This project contains a C# program for simulating the Chaos Game to create fractals using 6-dice values. To better understand the program, you may want to read about the Chaos Game. Here’s a YouTube link (https://www.youtube.com/watch?v=kbKtFN71Lfs) that explains it in detail.  In this project, I have developed code to simulate point generation to create fractals. The program allows you to start with a few points, and you can increase the iterations using numeric up and down controls to speed up the fractal development
