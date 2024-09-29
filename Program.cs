@@ -32,7 +32,7 @@ internal class Program
         fChaosGame.Controls.Add(pnlPacement);
 
         btnStar = new Button();
-        btnStar.Text = "Start";
+        btnStar.Text = "Simulate";
         btnStar.Top = pnlPacement.Height + pnlPacement.Top + 10;
         btnStar.Left = pnlPacement.Left;
         btnStar.Click += StartButton;
@@ -43,8 +43,8 @@ internal class Program
         nudButton.Width = btnStar.Width;
         nudButton.Left = pnlPacement.Width + btnStar.Left - nudButton.Width;
         nudButton.Maximum = 100000;
-        nudButton.Minimum = 1000;
-        nudButton.Increment = 1000;
+        nudButton.Minimum = 10;
+        nudButton.Increment = 100;
         fChaosGame.Controls.Add(nudButton);
 
         Label lblIterations = new Label();
@@ -54,6 +54,8 @@ internal class Program
         //lblIterations.Height = btnStar.Top;
         fChaosGame.Controls.Add(lblIterations);
 
+
+       
 
 
         Application.Run(fChaosGame);
@@ -67,10 +69,15 @@ internal class Program
     {
         Graphics g = pnlPacement.CreateGraphics();
         g.FillEllipse(new SolidBrush(Color.Red), 245, 0, 15, 15);
+       // g.DrawString("A (1 or 2)", new Font("Arial", 10), Brushes.Black, 185, 0);
+
         Graphics e = pnlPacement.CreateGraphics();
         e.FillEllipse(new SolidBrush(Color.Red), 5, pnlPacement.Height - 15, 15, 15);
+       // g.DrawString("B (3 or 4)", new Font("Arial", 10), Brushes.Black, 5 + 20, pnlPacement.Height - 35);
+        
         Graphics f = pnlPacement.CreateGraphics();
         f.FillEllipse(new SolidBrush(Color.Red), pnlPacement.Width - 15, pnlPacement.Height - 15, 15, 15);
+      //  g.DrawString("C (5 or 6)", new Font("Arial", 10), Brushes.Black, pnlPacement.Width - 55, pnlPacement.Height - 35);
     }
     static void GetTriangle()
     {
